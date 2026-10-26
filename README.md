@@ -1,2 +1,3 @@
 # u2-p5-va-1472
-vision artificial 
+graficando serie de datos la tiendita los manda2
+
